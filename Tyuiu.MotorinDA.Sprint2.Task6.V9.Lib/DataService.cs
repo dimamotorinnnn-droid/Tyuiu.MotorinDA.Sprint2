@@ -16,7 +16,7 @@ namespace Tyuiu.MotorinDA.Sprint2.Task6.V9.Lib
             int nextN = (n == daysInMonth) ? 1 : n + 1;
             int nextM = (n == daysInMonth) ? m + 1 : m;
 
-            return $"{nextN}.{nextM}";
+            return $"{nextN:D2}.{nextM:D2}";
         }
     }
 }
