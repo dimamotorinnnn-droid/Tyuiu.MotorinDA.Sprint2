@@ -13,7 +13,7 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tyuiu.MotorinDA.Sprint2.Tas
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Task1", "Task1", "{C45DA1F5-75A6-4B37-92AE-66C7C562D64C}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tyuiu.MotorinDA.Sprint2.Task2.V11", "Tyuiu.MotorinDA.Sprint2.Task2.V11\Tyuiu.MotorinDA.Sprint2.Task2.V11.csproj", "{0617B23A-903A-425B-AC4B-8A81D9CE29C9}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tyuiu.MotorinDA.Sprint2.Task1.V11", "Tyuiu.MotorinDA.Sprint2.Task2.V11\Tyuiu.MotorinDA.Sprint2.Task1.V11.csproj", "{0617B23A-903A-425B-AC4B-8A81D9CE29C9}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tyuiu.MotorinDA.Sprint2.Task1.V11.Lib", "Tyuiu.MotorinDA.Sprint2.Task1.V11.Lib\Tyuiu.MotorinDA.Sprint2.Task1.V11.Lib.csproj", "{FD7B258F-4FC6-4028-A0BC-F5997635F5F4}"
 EndProject
